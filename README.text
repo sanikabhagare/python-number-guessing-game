@@ -1,26 +1,26 @@
-# 🎮 Number Guessing Game
+ Number Guessing Game
 
 A clean, interactive command-line application built using Python. This project demonstrates core programming concepts including logic handling, loop controls, and integrating built-in libraries.
 
-## 🛠️ Developed By
-* **Name:** Sanika Bhagare
+ Developed By
+Name: Sanika Bhagare
 
 ---
 
-## 🚀 Project Overview
+##  Project Overview
 The game challenges the player to guess a randomly generated number between 1 and 100. It provides real-time, dynamic feedback based on the user's input to guide them to the correct answer.
 
 ### Key Python Features Implemented:
-* **Control Flow:** `if-elif-else` conditional logic for accuracy checks.
-* **Infinite Loops:** Utilizing `while True` statements with structured conditional breaks.
-* **Module Integration:** Utilizing Python's native `random` library for secure number generation.
-* **User Input Sanitization:** Typecasting string console inputs into integers (`int()`).
+Control Flow: `if-elif-else` conditional logic for accuracy checks.
+Infinite Loops: Utilizing `while True` statements with structured conditional breaks.
+Module Integration: Utilizing Python's native `random` library for secure number generation.
+User Input Sanitization: Typecasting string console inputs into integers (`int()`).
 
 ---
 
-## 🖥️ How to Run the Project
+ How to Run the Project
 
-1. **Prerequisites:** Ensure you have Python installed on your system.
-2. **Execution:** Open your terminal or command prompt, navigate to the project directory, and execute:
-   ```bash
+1. Prerequisites: Ensure you have Python installed on your system.
+2. Execution: Open your terminal or command prompt, navigate to the project directory, and execute:
+   bash
    python guessing_game.py
